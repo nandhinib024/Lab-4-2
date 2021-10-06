@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+#course-row{
+    font-size: 25px;
+    font-weight: bolder;
+    margin-left: -2;
+
+}
+#credit-row{
+    font-size: 25px;
+    font-weight: bolder;
+    margin-left: 13%;
+
+}
+#grade-row{
+    font-size: 25px;
+    font-weight: bolder;
+    margin-left: 8%;
+}
+#box
+{
+    margin-top: 150px;
+    margin-bottom: 150px;
+    width: 45%;
+    padding:0px;
+    height:40%;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/296/625/non_2x/calculator-on-a-blue-background-photo.jpg);
+    background-size: 100%;
+    background-repeat:cover ;
+}
+.container
+{
+    width: 50%;
+  height: auto;
+  margin: 100px auto;
+
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(22, 24, 22);
+}
+body{
+    background: linear-gradient(to right, #ccffff 0%, #ffffff 100%);
+    
+}
+#course-wrapper,form{
+    color: black;
+    padding-left: 10px;
+    margin: 0 auto;
+    text-align:center;
+  }
+
+
+
+input{
+    width: 20%;
+    padding: 10px;
+    border: solid;
+    border-radius: 7.5px;
+    text-align: center;
+   
+}
+select{
+    width: 20%;
+    padding: 10px;
+   border: solid;
+   border-radius: 7.5px;
+}
+p.a{
+    text-align: center;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:normal;
+   
+    
+}
+button{
+   
+width: 20%;
+height: 50px;
+padding: 0px;
+margin: 15px auto;
+border-width: 3px;
+border-radius: 7.5px;
+border-style: solid;
+background-color:white;
+    
+
+}
+.btn {
+    
+    width: 600px;
+    padding: 0px;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+.lastp  {
+    color: black;
+    text-align: center;
+    padding: 5px;
+    font-size: 30px;
+    font-weight: bolder;
+} 
